@@ -1,0 +1,19 @@
+body {
+    background-color: hsl(212, 45%, 89%);
+    font-family: 'Outfit', sans-serif;
+    margin: auto;
+    text-align: center;
+    min-width: 375px;
+    max-width: 450px;
+    padding-top: 100px;
+    padding-bottom: 100px;
+}
+div {
+    background-color: white;
+    padding:30px;
+    border-radius: 20px;
+}
+.i1{
+  width: 100%;
+  border-radius: 5%;
+}
